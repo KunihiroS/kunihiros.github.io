@@ -156,3 +156,4 @@ dist
 src/pages/en
 src/pages/ja
 .pnpm-store/
+.pnpm/
